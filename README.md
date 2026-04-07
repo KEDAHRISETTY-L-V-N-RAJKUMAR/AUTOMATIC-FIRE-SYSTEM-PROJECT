@@ -1,6 +1,6 @@
 # AUTOMATIC-FIRE-SYSTEM-PROJECT
 IoT-based automatic fire detection and extinguishing system using ESP32 with real-time monitoring, sensor integration, and automated response
-# 🔥 Auto Fire Detection and Extinguishing System
+# 🔥 Automatic Fire Detection and Extinguishing System
 
 ![Domain](https://img.shields.io/badge/Domain-Embedded%20%26%20IoT-blue)
 ![Controller](https://img.shields.io/badge/Microcontroller-ESP32-green)
