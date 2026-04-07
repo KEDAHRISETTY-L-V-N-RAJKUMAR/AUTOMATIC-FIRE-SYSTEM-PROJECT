@@ -59,6 +59,7 @@ The system detects fire conditions using sensors and **automatically activates a
 ---
 
 ## 🎥 Working Demo
+▶️ [Watch Project Demo on YouTube](https://youtu.be/NsTfw-_vOk4)
 ▶️ [Click here to watch the working video](project_working_video.mp4)
 
 ---
