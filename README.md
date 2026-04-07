@@ -63,6 +63,11 @@ The system detects fire conditions using sensors and **automatically activates a
 
 ---
 
+## 📘 Project Report
+📄 [View Full Report](AUTOMATIC_FIRE_SYSTEM_PROJECT_REPORT.pdf)
+
+---
+
 ## 💻 Software
 - Arduino IDE  
 - Embedded C/C++  
