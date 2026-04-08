@@ -63,7 +63,8 @@ The system detects fire conditions using sensors and **autonomously moves a robo
 
 ## 🎥 Working Demo
 
-[![Watch Demo](https://img.youtube.com/vi/NsTfw-_vOk4/0.jpg)](https://youtu.be/NsTfw-_vOk4)
+▶️ [Watch Project Demo on YouTube](https://youtu.be/NsTfw-_vOk4) 
+▶️ [Click here to watch the working video](project_working_video.mp4)
 
 ---
 
